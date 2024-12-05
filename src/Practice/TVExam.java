@@ -17,7 +17,7 @@
  */
 package Practice;
 
-public class Exam_241205_2 {
+public class TVExam {
     public static void main(String[] args) {
         TV tv = new TV();
         tv.togglePower(true);

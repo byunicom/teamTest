@@ -17,4 +17,9 @@
 package Practice;
 
 public class Exam_241205_1 {
+
+    public static void main(String[] args) {
+        Student student = new Student();
+        student.studentInfo("홍길동",16,1);
+    }
 }

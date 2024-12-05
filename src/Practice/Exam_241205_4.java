@@ -16,4 +16,10 @@
 package Practice;
 
 public class Exam_241205_4 {
+    public static void main(String[] args) {
+        Animal animal = new Animal();
+        animal.dog();
+        animal.cat();
+        animal.hamster();
+    }
 }

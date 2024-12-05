@@ -15,7 +15,7 @@
  */
 package Practice;
 
-public class Exam_241205_4 {
+public class AnimalExam {
     public static void main(String[] args) {
         //class를 이용해서 실체(진짜 동물) 을 만들어야 함.
         Animal animal = new Animal();   //new 실체를 만든다.  만들어진 실체를 인스턴스라고 부른다. (Animal:클래스/animal:인스턴스(or 변수))

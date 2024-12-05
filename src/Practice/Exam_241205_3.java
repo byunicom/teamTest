@@ -22,8 +22,14 @@ public class Exam_241205_3 {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 
+        //#1. 메서드에서 계산하고, 해당 메서드에서 출력값까지 바로 표현하는 방법
         calculator.add(10,5);
-        calculator.subtract(10,5);
+
+        //#2. 메서드에서 값을 반환받아서 표현하는 방법
+        int result=calculator.subtract(10, 5);
+        System.out.println("빼기 결과: "+result);
+
+        //#1. 방식으로 처리하였음.
         calculator.multiply(10,5);
         calculator.divide(10,5);
 

@@ -16,7 +16,7 @@
  */
 package Practice;
 
-public class Exam_241205_1 {
+public class StudentExam {
 
     public static void main(String[] args) {
         Student student = new Student();

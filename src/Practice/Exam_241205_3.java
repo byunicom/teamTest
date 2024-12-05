@@ -19,4 +19,13 @@
 package Practice;
 
 public class Exam_241205_3 {
+    public static void main(String[] args) {
+        Calculator calculator = new Calculator();
+
+        calculator.add(10,5);
+        calculator.subtract(10,5);
+        calculator.multiply(10,5);
+        calculator.divide(10,5);
+
+    }
 }

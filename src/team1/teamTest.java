@@ -7,5 +7,8 @@ public class teamTest {
         System.out.println("-------------------2024.12.04 실패");
         System.out.println("내일은 성공할 수 있겠지...ggg");
         System.out.println("병우씨 드디어 해냈어요.");
+        System.out.println("정인씨 합류!!!");
+        System.out.println("정인씨 반가워요~");
+        System.out.println("-------------------2024.12.05 성공");
     }
 }

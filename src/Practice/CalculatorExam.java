@@ -18,7 +18,7 @@
  */
 package Practice;
 
-public class Exam_241205_3 {
+public class CalculatorExam {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 

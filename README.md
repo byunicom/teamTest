@@ -21,4 +21,7 @@ like lion Team Project Test Repository
   5. 개발
   6. 테스트 (PULL REQUEST 를 사용해 보자)
   7. 배포 (CI/CD 기법을 이용해 보자. Git Hub Actions ??, Jenkins ??)
+ 
+- 아이디어
+  1. OPEN API 호출을 통해 지도 API 에 주유소별 유류비 표현하기 해보면 어때요? - 김동규
   

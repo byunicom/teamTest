@@ -8,6 +8,9 @@ public class TvMain {
         //tv.togglePower();
 
         tv.changeChannel(13);
+
+        tv.togglePower();
+
         tv.changeChannel(28);
         tv.changeChannel(32);
 

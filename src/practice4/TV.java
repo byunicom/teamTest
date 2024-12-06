@@ -1,4 +1,4 @@
-package team1.practice4;
+package practice4;
 
 public class TV {
     private boolean power = false;

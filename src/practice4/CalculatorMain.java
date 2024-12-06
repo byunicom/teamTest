@@ -1,4 +1,4 @@
-package team1.practice4;
+package practice4;
 
 public class CalculatorMain {
     public static void main(String[] args) {

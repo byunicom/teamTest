@@ -1,4 +1,4 @@
-package practice4;
+package bangwoo.practice4;
 
 public class Student {
     private String name;

@@ -1,4 +1,4 @@
-package practice4;
+package bangwoo.practice4;
 
 public class CalculatorMain {
     public static void main(String[] args) {

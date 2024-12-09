@@ -1,4 +1,4 @@
-package Practice_241206;
+package dgkim.Practice4;
 
 public class Deck{
     Card[] cards = new Card[52];

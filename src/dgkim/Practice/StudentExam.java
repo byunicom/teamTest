@@ -14,7 +14,7 @@
  * 학생 나이: 16
  * 학년: 1학년
  */
-package Practice;
+package dgkim.Practice;
 
 public class StudentExam {
 

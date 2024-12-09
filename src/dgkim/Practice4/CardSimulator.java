@@ -31,7 +31,7 @@
  * Final Score: Alice 3, Bob 2 -> Alice wins the game!
  */
 
-package Practice_241206;
+package dgkim.Practice4;
 
 public class CardSimulator {
     public static void main(String[] args) {

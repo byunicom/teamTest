@@ -1,4 +1,4 @@
-package Practice;
+package dgkim.Practice;
 
 public class Student {
     private String name;

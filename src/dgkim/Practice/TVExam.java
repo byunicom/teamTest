@@ -15,7 +15,7 @@
  * 전원이 켜졌습니다.
  * 채널을 5번으로 변경했습니다.
  */
-package Practice;
+package dgkim.Practice;
 
 public class TVExam {
     public static void main(String[] args) {

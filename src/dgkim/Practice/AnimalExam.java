@@ -13,7 +13,7 @@
  * 이름: 나비, 종류: 고양이
  * 이름: 찡찡이, 종류: 햄스터
  */
-package Practice;
+package dgkim.Practice;
 
 public class AnimalExam {
     public static void main(String[] args) {

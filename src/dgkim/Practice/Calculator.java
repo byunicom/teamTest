@@ -1,4 +1,4 @@
-package Practice;
+package dgkim.Practice;
 //Calculator 클래스 생성 (클래스명은 대문자로 시작하기로 약속함)
 public class Calculator {
     //#1.

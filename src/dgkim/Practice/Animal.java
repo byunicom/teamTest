@@ -1,4 +1,4 @@
-package Practice;
+package dgkim.Practice;
 
 //class Animal 은 단지 설계도, 틀
 

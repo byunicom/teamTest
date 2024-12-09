@@ -1,4 +1,4 @@
-package Practice;
+package dgkim.Practice;
 
 public class TV {
 //    private boolean power;

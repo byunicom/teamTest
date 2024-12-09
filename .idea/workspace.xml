@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5667de1d-faaa-4f7d-9998-3c251c3187d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/AnimalExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/CalculatorExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/StudentExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/TVExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_241206/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_241206/CardSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_241206/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_241206/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_241206/Player.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +74,34 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/intellij/teamTest",
+    "last_opened_file_path": "C:/teamTest/src/dgkim/Practice_241206/Practice_241206/Practice_241206/Practice_241206/Practice_241206/Practice_241206/Practice_241206/Practice_241206",
     "onboarding.tips.debug.path": "C:/teamTest/teamTest/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\teamTest\src\dgkim\Practice_241206\Practice_241206\Practice_241206\Practice_241206\Practice_241206\Practice_241206\Practice_241206\Practice_241206" />
+      <recent name="C:\teamTest\src\dgkim\Practice_241206\Practice_241206\Practice_241206\Practice_241206" />
+      <recent name="C:\teamTest\src\dgkim\Practice_241206\Practice_241206" />
+      <recent name="C:\teamTest\src\Practice" />
+      <recent name="C:\teamTest\src\dgkim\Practice_241206" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="dgkim" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.TvMain">
     <configuration name="Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_241206.Card" />
+      <option name="MAIN_CLASS_NAME" value="dgkim.Practice_241206.Card" />
       <module name="teamTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_241206.*" />
+          <option name="PATTERN" value="dgkim.Practice_241206.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

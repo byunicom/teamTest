@@ -16,7 +16,7 @@
  * 곱하기 결과: 50
  * 나누기 결과: 2
  */
-package Practice;
+package dgkim.Practice;
 
 public class CalculatorExam {
     public static void main(String[] args) {

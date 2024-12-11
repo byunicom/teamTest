@@ -5,7 +5,6 @@ public class Character {
 
     public void setAttackStrategy(Attackable strategy){
         this.attackStrategy = strategy;
-        System.out.println(this.attackStrategy);
     }
 
     public void performAttack(){
@@ -15,9 +14,12 @@ public class Character {
     public static void main(String[] args) {
         Character character = new Character();
 
-        //character.setAttackStrategy(character.attackStrategy);
-        //character.performAttack();
 
+        character.setAttackStrategy(new SwordAttack());
+        character.performAttack();
+
+        character.setAttackStrategy(new BowAttack());
+        character.performAttack();
 
     }
 }

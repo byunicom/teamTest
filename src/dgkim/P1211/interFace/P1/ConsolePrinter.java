@@ -1,4 +1,4 @@
-package dgkim.P1211;
+package dgkim.P1211.interFace.P1;
 
 public class ConsolePrinter implements Printer {
     @Override

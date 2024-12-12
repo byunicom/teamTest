@@ -1,4 +1,4 @@
-package dgkim.P1211;
+package dgkim.P1211.interFace.P4;
 
 public class BowAttack implements Attackable {
     @Override

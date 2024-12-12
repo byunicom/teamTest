@@ -1,4 +1,4 @@
-package dgkim.P1211;
+package dgkim.P1211.interFace.P4;
 
 public class Character {
     Attackable attackStrategy;  //이게 무슨 말인지 모르겠다.

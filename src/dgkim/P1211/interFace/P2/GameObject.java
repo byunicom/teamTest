@@ -1,8 +1,6 @@
-package dgkim.P1211;
+package dgkim.P1211.interFace.P2;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
-public class GameObject implements Movable, Drawable{
+public class GameObject implements Movable, Drawable {
     public int x;
     public int y;
 

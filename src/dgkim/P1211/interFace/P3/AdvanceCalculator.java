@@ -1,4 +1,4 @@
-package dgkim.P1211;
+package dgkim.P1211.interFace.P3;
 
 public class AdvanceCalculator implements Multipliable {
 

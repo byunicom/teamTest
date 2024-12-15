@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5667de1d-faaa-4f7d-9998-3c251c3187d8" name="Changes" comment="" />
+    <list default="true" id="5667de1d-faaa-4f7d-9998-3c251c3187d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,37 +39,28 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdvanceCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayExceptionTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChangeTypeException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Character.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConsolePrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivideExceptionTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileHandler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GameObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringException.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/intellij/teamTest/src/bangwoo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdvanceCalculator.executor": "Run",
+    "Application.ArrayExceptionTest.executor": "Run",
+    "Application.ChangeTypeException.executor": "Run",
+    "Application.Character.executor": "Run",
+    "Application.ConsolePrinter.executor": "Run",
+    "Application.DivideExceptionTest.executor": "Run",
+    "Application.FileHandler.executor": "Run",
+    "Application.GameObject.executor": "Run",
+    "Application.StringException.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/teamTest",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.ArrayExceptionTest">
-    <configuration name="ArrayExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dgkim.P1211.Exception.ArrayExceptionTest" />
-      <module name="teamTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dgkim.P1211.Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.bankTest">
     <configuration name="ChangeTypeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dgkim.P1211.Exception.ChangeTypeException" />
       <module name="teamTest" />
@@ -119,11 +113,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a1212.bankProject.bankTest" />
+      <module name="teamTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a1212.bankProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bankTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48cb38db-e659-45c0-8e19-22d92f7cc9af" name="Changes" comment="" />
+      <changelist id="5667de1d-faaa-4f7d-9998-3c251c3187d8" name="Changes" comment="" />
       <created>1733914460138</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

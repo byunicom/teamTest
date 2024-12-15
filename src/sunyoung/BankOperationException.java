@@ -1,4 +1,4 @@
-package a1212.bankProject;
+package sunyoung;
 
 public class BankOperationException extends Exception{
 

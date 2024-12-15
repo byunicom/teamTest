@@ -1,4 +1,4 @@
-package a1212.bankProject;
+package sunyoung;
 
 public class Customer {
     // 고객 ID와 이름을 포함하며, 고객이 소유한 통징(어카운트)목록을 관리합니다.
